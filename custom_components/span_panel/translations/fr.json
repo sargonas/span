@@ -22,7 +22,7 @@
                 },
                 "title": "Connectez-vous au Span Panel"
             },
-            "auth_menu": {
+            "choose_auth_type": {
                 "title": "Choisir les options d'authentification",
                 "menu_options": {
                     "auth_proximity": "Authentifiez-vous via votre Span Panel physique",
@@ -31,7 +31,7 @@
             },
             "auth_proximity": {
                 "title": "Authentification de proximité",
-                "description": "Veuillez ouvrir et fermer la porte du Span Panel les fois {remaining}."
+                "description": "Veuillez ouvrir et fermer la porte du Span Panel les fois 3."
             },
             "auth_token": {
                 "title": "Authentification manuelle du jeton",
